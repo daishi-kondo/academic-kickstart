@@ -85,7 +85,7 @@ subtitle = ""
 * **D. Kondo**, A. Fujimoto, Y. Hirota, H. Tode, and K. Murakami, ''P2P Live Streaming Distribution System with Fast Content Switching and Category-Based Recommendation Function,'' in *3PGCIC Workshop (SMDMS)* 2012.
 
 ### <u>国内会議</u>
-* アシシュ マン シング プラダン, **近藤大嗣**, 谷川陽祐, 戸出英樹, ''インターネットから収集したURLデータの統計量に基づくNDN情報漏洩防止方法の検討,'' 電子情報通信学会ICN研究会, 2019年
+* アシシュ マン シング プラダン, **近藤大嗣**, 谷川陽祐, 戸出英樹, ''制約付きInterest転送機能を有する参加型クラウドセンシンプラットフォーム: 網外知見の収集法,'' 電子情報通信学会ICN研究会, 2019年
 
 * 石倉直武, **近藤大嗣**, 戸出英樹, ''DNSトンネリング経由標的型攻撃に対するキャッシュヒット率を用いた検知手法の検討,'' 電子情報通信学会総合大会, 2019年3月
 
