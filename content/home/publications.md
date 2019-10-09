@@ -5,7 +5,7 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 90  # Order that this section will appear.
+weight = 65  # Order that this section will appear.
 
 title = "Publications"
 subtitle = ""
@@ -85,9 +85,15 @@ subtitle = ""
 * **D. Kondo**, A. Fujimoto, Y. Hirota, H. Tode, and K. Murakami, ''P2P Live Streaming Distribution System with Fast Content Switching and Category-Based Recommendation Function,'' in *3PGCIC Workshop (SMDMS)* 2012.
 
 ### <u>国内会議</u>
+* 石倉直武, **近藤大嗣**, 戸出英樹, ''DNSトンネリング検知のためのキャッシュ特性に基づく特徴量,'' 電子情報通信学会ネットワークシステム研究会, 2019年
+
+* **D. Kondo**, J. Kurihara, H. Tode, and T. Asami, ''Name Prefix Security Applications in NDN,'' 電子情報通信学会ソサイエティ大会, BT-1-3, 2019年
+
+* J. Kurihara, **D. Kondo**, H. Tode, and T. Asami, ''Introduction to Name Prefix Security in NDN,'' 電子情報通信学会ソサイエティ大会, BT-1-4, 2019年
+
 * アシシュ マン シング プラダン, **近藤大嗣**, 谷川陽祐, 戸出英樹, ''制約付きInterest転送機能を有する参加型クラウドセンシンプラットフォーム: 網外知見の収集法,'' 電子情報通信学会ICN研究会, 2019年
 
-* 石倉直武, **近藤大嗣**, 戸出英樹, ''DNSトンネリング経由標的型攻撃に対するキャッシュヒット率を用いた検知手法の検討,'' 電子情報通信学会総合大会, 2019年3月
+* 石倉直武, **近藤大嗣**, 戸出英樹, ''DNSトンネリング経由標的型攻撃に対するキャッシュヒット率を用いた検知手法の検討,'' 電子情報通信学会総合大会, 2019年
 
 * 戸出英樹, **近藤大嗣**, シルバーストントーマス, 浅見徹, ''NDN Interestを介した情報漏洩に対するフィルタ設計とその評価, '' 電子情報通信学会総合大会, 2018年
 

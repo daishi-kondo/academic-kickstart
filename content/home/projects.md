@@ -2,8 +2,8 @@
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 90  # Order that this section will appear.
 
 title = "Projects"
 subtitle = ""
@@ -74,3 +74,6 @@ subtitle = ""
  css_class = ""
 +++
 
+- [DNSトンネリング経由標的型攻撃に対する普遍的特徴量を用いた検知手法に関する研究](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-19K24351/)
+	- 研究種目: 研究活動スタート支援
+	- 研究期間 (年度): 2019-08-30 - 2021-03-31
