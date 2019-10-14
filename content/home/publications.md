@@ -67,7 +67,7 @@ subtitle = ""
 +++
 
 ### <u>International Journal Papers</u>
-* G. Doyen, T. Cholez, W. Mallouli, B. Mathieu, H. L. Mai, X. Marchal, **D. Kondo**, M. Aouadj, A. Ploix, E. M. de Oca, and O. Festor, ''An Orchestrated NDN Virtual Infrastructure transporting Web Traffic: Design, Implementation and First Experiments with Real End-Users,'' *IEEE Communications Magazine*, vol. 57, pp. 33–39, Jun. 2019.
+* G. Doyen, T. Cholez, W. Mallouli, B. Mathieu, H. L. Mai, X. Marchal, **D. Kondo**, M. Aouadj, A. Ploix, E. M. de Oca, and O. Festor, ''An Orchestrated NDN Virtual Infrastructure Transporting Web Traffic: Design, Implementation and First Experiments with Real End-Users,'' *IEEE Communications Magazine*, vol. 57, pp. 33–39, Jun. 2019.
 
 * **D. Kondo**, T. Silverston, V. Vassiliades, H. Tode, and T. Asami, ''Name Filter: A Countermeasure against Information Leakage Attacks in Named Data Networking,'' *IEEE Access*, vol. 6, pp. 65151–65170, Oct. 2018.
 
