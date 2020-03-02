@@ -72,6 +72,8 @@ subtitle = ""
 * **D. Kondo**, T. Silverston, V. Vassiliades, H. Tode, and T. Asami, ''Name Filter: A Countermeasure against Information Leakage Attacks in Named Data Networking,'' *IEEE Access*, vol. 6, pp. 65151–65170, Oct. 2018.
 
 ### <u>International Conference Papers</u>
+* N. Ishikura, **D. Kondo**, I. Iordanov, V. Vassiliades, and H. Tode, ''Cache-Property-Aware Features for DNS Tunneling Detection,'' in *ICIN* 2020.
+
 * H. L. Mai, M. Aouadj, G. Doyen, **D. Kondo**, X. Marchal, T. Cholez, E. M. de Oca, and W. Mallouli, ''Implementation of Content Poisoning Attack Detection and Reaction in Virtualized NDN Networks,'' in *ICIN* 2018.
 
 * **D. Kondo**, T. Silverston, H. Tode, T. Asami, and O. Perrin, ''Risk Analysis of Information-Leakage through Interest Packets in NDN,'' in *IEEE INFOCOM Workshop (NOM)* 2017.
@@ -85,6 +87,12 @@ subtitle = ""
 * **D. Kondo**, A. Fujimoto, Y. Hirota, H. Tode, and K. Murakami, ''P2P Live Streaming Distribution System with Fast Content Switching and Category-Based Recommendation Function,'' in *3PGCIC Workshop (SMDMS)* 2012.
 
 ### <u>国内会議</u>
+* 長谷川圭太, **近藤大嗣**, 戸出英樹, ''DNS水責め攻撃に対抗するDNSキャッシュサーバ上でのFQDNベースホワイトリストフィルタの提案及び考察,'' 電子情報通信学会ネットワークシステム研究会, 2020年
+
+* 長谷川圭太, **近藤大嗣**, 戸出英樹, ''DNS水責め攻撃に対抗するDNSキャッシュサーバ上でのFQDNベースホワイトリストフィルタに関する検討,'' 電子情報通信学会ソサイエティ大会, B-6-11, 2020年
+
+* 石倉直武, **近藤大嗣**, 戸出英樹, ''DNSトンネリングに関する攻撃手法と防御手法の分類,'' 電子情報通信学会ネットワークシステム研究会, 2020年
+
 * 石倉直武, **近藤大嗣**, 戸出英樹, ''DNSトンネリング検知のためのキャッシュ特性に基づく特徴量,'' 電子情報通信学会ネットワークシステム研究会, 2019年
 
 * **D. Kondo**, J. Kurihara, H. Tode, and T. Asami, ''Name Prefix Security Applications in NDN,'' 電子情報通信学会ソサイエティ大会, BT-1-3, 2019年
