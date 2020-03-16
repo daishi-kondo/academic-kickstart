@@ -67,6 +67,8 @@ subtitle = ""
 +++
 
 ### <u>International Journal Papers</u>
+* **D. Kondo**, V. Vassiliades, T. Silverston, H. Tode, and T. Asami, ''The Named Data Networking Flow Filter: Towards Improved Security over Information Leakage Attacks,'' *Computer Networks*, vol. 173, Mar. 2020.
+
 * G. Doyen, T. Cholez, W. Mallouli, B. Mathieu, H. L. Mai, X. Marchal, **D. Kondo**, M. Aouadj, A. Ploix, E. M. de Oca, and O. Festor, ''An Orchestrated NDN Virtual Infrastructure Transporting Web Traffic: Design, Implementation and First Experiments with Real End-Users,'' *IEEE Communications Magazine*, vol. 57, pp. 33–39, Jun. 2019.
 
 * **D. Kondo**, T. Silverston, V. Vassiliades, H. Tode, and T. Asami, ''Name Filter: A Countermeasure against Information Leakage Attacks in Named Data Networking,'' *IEEE Access*, vol. 6, pp. 65151–65170, Oct. 2018.
@@ -99,7 +101,7 @@ subtitle = ""
 
 * J. Kurihara, **D. Kondo**, H. Tode, and T. Asami, ''Introduction to Name Prefix Security in NDN,'' 電子情報通信学会ソサイエティ大会, BT-1-4, 2019年
 
-* アシシュ マン シング プラダン, **近藤大嗣**, 谷川陽祐, 戸出英樹, ''制約付きInterest転送機能を有する参加型クラウドセンシンプラットフォーム: 網外知見の収集法,'' 電子情報通信学会ICN研究会, 2019年
+* アシシュ マン シング プラダン, **近藤大嗣**, 谷川陽祐, 戸出英樹, ''制約付きInterest転送機能を有する参加型クラウドセンシングプラットフォーム: 網外知見の収集法,'' 電子情報通信学会ICN研究会, 2019年
 
 * 石倉直武, **近藤大嗣**, 戸出英樹, ''DNSトンネリング経由標的型攻撃に対するキャッシュヒット率を用いた検知手法の検討,'' 電子情報通信学会総合大会, 2019年
 
