@@ -88,6 +88,9 @@ subtitle = ""
 
 * **D. Kondo**, A. Fujimoto, Y. Hirota, H. Tode, and K. Murakami, ''P2P Live Streaming Distribution System with Fast Content Switching and Category-Based Recommendation Function,'' in *3PGCIC Workshop (SMDMS)* 2012.
 
+### <u>解説</u>
+* 浅見徹, 栗原淳, **近藤大嗣**, 戸出英樹, ''多様なビジネスの収容基盤としてのネットワークとその課題――著作権保護や消費税徴収等に関わる技術的・法的課題――,'' 電子情報通信学会誌, vol. 103, no. 2, pp. 155-161, Feb.
+
 ### <u>国内会議</u>
 * 長谷川圭太, **近藤大嗣**, 戸出英樹, ''DNS水責め攻撃に対抗するDNSキャッシュサーバ上でのFQDNベースホワイトリストフィルタの提案及び考察,'' 電子情報通信学会ネットワークシステム研究会, 2020年
 
