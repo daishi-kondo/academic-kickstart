@@ -74,6 +74,8 @@ subtitle = ""
 * **D. Kondo**, T. Silverston, V. Vassiliades, H. Tode, and T. Asami, ''Name Filter: A Countermeasure against Information Leakage Attacks in Named Data Networking,'' *IEEE Access*, vol. 6, pp. 65151–65170, Oct. 2018.
 
 ### <u>International Conference Papers</u>
+* H. Tode, A. M. S. Pradhan, **D. Kondo**, and Y. Tanigawa, ''Participatory Crowdsensing Framework with Area-focused Interest Forwarding based on Named Data Networking,'' in *IEEE MSN* 2020.
+
 * N. Ishikura, **D. Kondo**, I. Iordanov, V. Vassiliades, and H. Tode, ''Cache-Property-Aware Features for DNS Tunneling Detection,'' in *ICIN* 2020.
 
 * H. L. Mai, M. Aouadj, G. Doyen, **D. Kondo**, X. Marchal, T. Cholez, E. M. de Oca, and W. Mallouli, ''Implementation of Content Poisoning Attack Detection and Reaction in Virtualized NDN Networks,'' in *ICIN* 2018.
@@ -92,6 +94,8 @@ subtitle = ""
 * 浅見徹, 栗原淳, **近藤大嗣**, 戸出英樹, ''多様なビジネスの収容基盤としてのネットワークとその課題―著作権保護や消費税徴収等に関わる技術的・法的課題―,'' 電子情報通信学会誌, vol. 103, no. 2, pp. 155-161, 2月 2020年
 
 ### <u>国内会議</u>
+* **近藤大嗣**, 谷川陽祐, 戸出英樹, ''Named Data Networking におけるエッジコンピューティング資源探索に関する一検討,'' 電子情報通信学会ネットワークシステム研究会, 2020年
+
 * 長谷川圭太, **近藤大嗣**, 戸出英樹, ''DNS水責め攻撃に対抗するDNSキャッシュサーバ上でのFQDNベースホワイトリストフィルタの提案及び考察,'' 電子情報通信学会ネットワークシステム研究会, 2020年
 
 * 長谷川圭太, **近藤大嗣**, 戸出英樹, ''DNS水責め攻撃に対抗するDNSキャッシュサーバ上でのFQDNベースホワイトリストフィルタに関する検討,'' 電子情報通信学会ソサイエティ大会, B-6-11, 2020年
