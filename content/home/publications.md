@@ -74,7 +74,7 @@ subtitle = ""
 * **D. Kondo**, T. Silverston, V. Vassiliades, H. Tode, and T. Asami, ''Name Filter: A Countermeasure against Information Leakage Attacks in Named Data Networking,'' *IEEE Access*, vol. 6, pp. 65151–65170, Oct. 2018.
 
 ### <u>International Conference Papers</u>
-* K. Hasegawa, **D. Kondo**, and H. Tode, ''FQDN-Based Whitelist Filter on a DNS Cache Server Against the DNS Water Torture Attack,'' in *IFIP/IEEE IM* 2020.
+* K. Hasegawa, **D. Kondo**, and H. Tode, ''FQDN-Based Whitelist Filter on a DNS Cache Server Against the DNS Water Torture Attack,'' in *IFIP/IEEE IM* 2021.
 
 * H. Tode, A. M. S. Pradhan, **D. Kondo**, and Y. Tanigawa, ''[Invited] NDN Based Participatory Crowdsensing Framework with Area-focused Interest Forwarding,'' in *IEEE MSN* 2020.
 
