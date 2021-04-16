@@ -53,10 +53,10 @@ time_format = "3:04 PM"
 # email = "test@example.org"
 # phone = "888 888 88 88"
 address = """
-Intelligent Networking Research Group<br>
-Department of Computer Science and Intelligent Systems<br>
-Graduate School of Engineering<br>
-Osaka Prefecture University<br>
+Intelligent Networking Research Group\n
+Department of Computer Science and Intelligent Systems\n
+Graduate School of Engineering\n
+Osaka Prefecture University\n
 B4 W304, 1-1 Gakuencho, Naka, Sakai, Osaka 599-8231, Japan
 """
 

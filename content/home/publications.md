@@ -74,6 +74,8 @@ subtitle = ""
 * **D. Kondo**, T. Silverston, V. Vassiliades, H. Tode, and T. Asami, ''Name Filter: A Countermeasure against Information Leakage Attacks in Named Data Networking,'' *IEEE Access*, vol. 6, pp. 65151–65170, Oct. 2018.
 
 ### <u>International Conference Papers</u>
+* **D. Kondo**, T. Ansquer, Y. Tanigawa, and H. Tode, ''Resource Discovery for Edge Computing over Named Data Networking,'' in *IEEE COMPSAC* 2021.
+
 * K. Hasegawa, **D. Kondo**, and H. Tode, ''FQDN-Based Whitelist Filter on a DNS Cache Server Against the DNS Water Torture Attack,'' in *IFIP/IEEE IM* 2021.
 
 * H. Tode, A. M. S. Pradhan, **D. Kondo**, and Y. Tanigawa, ''[Invited] NDN Based Participatory Crowdsensing Framework with Area-focused Interest Forwarding,'' in *IEEE MSN* 2020.
@@ -96,7 +98,7 @@ subtitle = ""
 * 浅見徹, 栗原淳, **近藤大嗣**, 戸出英樹, ''多様なビジネスの収容基盤としてのネットワークとその課題―著作権保護や消費税徴収等に関わる技術的・法的課題―,'' 電子情報通信学会誌, vol. 103, no. 2, pp. 155-161, 2月 2020年
 
 ### <u>国内会議</u>
-* 磯部克貴, **近藤大嗣**, 戸出英樹, ''Webブラウザから一語の検索クエリがDomain Name Systemに漏れる問題の実態調査と利用者の興味関心漏れによるプライバシー侵害の評価,'' 電子情報通信学会ネットワークシステム研究会, 2021年
+* 磯部克貴, **近藤大嗣**, 戸出英樹, ''Webブラウザから1語の検索クエリがDomain Name Systemに漏れる問題の実態調査と利用者の興味関心漏れによるプライバシー侵害の評価,'' 電子情報通信学会ネットワークシステム研究会, 2021年
 
 * 松本瞬, **近藤大嗣**, 谷川陽祐, 戸出英樹, ''モバイルアドホックネットワーク環境下における優先度を用いた情報取得の検討,'' 電子情報通信学会総合大会, 2021年
 
