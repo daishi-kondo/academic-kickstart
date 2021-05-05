@@ -74,6 +74,7 @@ subtitle = ""
 +++
 
 - Program Committee Member
+	- IEEE MSN 2021
 	- IEEE MSN 2020
 	- IEEE/IFIP DISSECT 2020
 - 専門委員会

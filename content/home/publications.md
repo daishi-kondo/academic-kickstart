@@ -67,7 +67,9 @@ subtitle = ""
 +++
 
 ### <u>International Journal Papers</u>
-* **D. Kondo**, V. Vassiliades, T. Silverston, H. Tode, and T. Asami, ''The Named Data Networking Flow Filter: Towards Improved Security over Information Leakage Attacks,'' *Computer Networks*, vol. 173, Mar. 2020.
+* N. Ishikura, **D. Kondo**, V. Vassiliades, I. Iordanov, and H. Tode, ''DNS Tunneling Detection by Cache-Property-Aware Features,'' *IEEE TNSM*, Jun. 2020.
+
+* **D. Kondo**, V. Vassiliades, T. Silverston, H. Tode, and T. Asami, ''The Named Data Networking Flow Filter: Towards Improved Security over Information Leakage Attacks,'' *Computer Networks*, vol. 173, May 2020.
 
 * G. Doyen, T. Cholez, W. Mallouli, B. Mathieu, H. L. Mai, X. Marchal, **D. Kondo**, M. Aouadj, A. Ploix, E. M. de Oca, and O. Festor, ''An Orchestrated NDN Virtual Infrastructure Transporting Web Traffic: Design, Implementation and First Experiments with Real End-Users,'' *IEEE Communications Magazine*, vol. 57, pp. 33–39, Jun. 2019.
 
@@ -108,19 +110,19 @@ subtitle = ""
 
 * 長谷川圭太, **近藤大嗣**, 戸出英樹, ''［奨励講演］ステルス性の高いDNS水責め攻撃に対する検知・防御手法の提案,'' 電子情報通信学会ネットワークシステム研究会, 2021年
 
-* **近藤大嗣**, 谷川陽祐, 戸出英樹, ''Named Data Networking におけるエッジコンピューティング資源探索に関する一検討,'' 電子情報通信学会ネットワークシステム研究会, 2020年
+* **近藤大嗣**, 谷川陽祐, 戸出英樹, ''Named Data Networkingにおけるエッジコンピューティング資源探索に関する一検討,'' 電子情報通信学会ネットワークシステム研究会, 2020年
 
 * 長谷川圭太, **近藤大嗣**, 戸出英樹, ''DNS水責め攻撃に対抗するDNSキャッシュサーバ上でのFQDNベースホワイトリストフィルタの提案及び考察,'' 電子情報通信学会ネットワークシステム研究会, 2020年
 
-* 長谷川圭太, **近藤大嗣**, 戸出英樹, ''DNS水責め攻撃に対抗するDNSキャッシュサーバ上でのFQDNベースホワイトリストフィルタに関する検討,'' 電子情報通信学会ソサイエティ大会, B-6-11, 2020年
+* 長谷川圭太, **近藤大嗣**, 戸出英樹, ''DNS水責め攻撃に対抗するDNSキャッシュサーバ上でのFQDNベースホワイトリストフィルタに関する検討,'' 電子情報通信学会総合大会, 2020年
 
 * 石倉直武, **近藤大嗣**, 戸出英樹, ''DNSトンネリングに関する攻撃手法と防御手法の分類,'' 電子情報通信学会ネットワークシステム研究会, 2020年
 
 * 石倉直武, **近藤大嗣**, 戸出英樹, ''DNSトンネリング検知のためのキャッシュ特性に基づく特徴量,'' 電子情報通信学会ネットワークシステム研究会, 2019年
 
-* **D. Kondo**, J. Kurihara, H. Tode, and T. Asami, ''Name Prefix Security Applications in NDN,'' 電子情報通信学会ソサイエティ大会, BT-1-3, 2019年
+* **D. Kondo**, J. Kurihara, H. Tode, and T. Asami, ''Name Prefix Security Applications in NDN,'' 電子情報通信学会ソサイエティ大会, 2019年
 
-* J. Kurihara, **D. Kondo**, H. Tode, and T. Asami, ''Introduction to Name Prefix Security in NDN,'' 電子情報通信学会ソサイエティ大会, BT-1-4, 2019年
+* J. Kurihara, **D. Kondo**, H. Tode, and T. Asami, ''Introduction to Name Prefix Security in NDN,'' 電子情報通信学会ソサイエティ大会, 2019年
 
 * アシシュ マン シング プラダン, **近藤大嗣**, 谷川陽祐, 戸出英樹, ''制約付きInterest転送機能を有する参加型クラウドセンシングプラットフォーム: 網外知見の収集法,'' 電子情報通信学会ICN研究会, 2019年
 
