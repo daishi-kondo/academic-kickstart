@@ -67,7 +67,7 @@ subtitle = ""
 +++
 
 ### <u>International Journal Papers</u>
-* N. Ishikura, **D. Kondo**, V. Vassiliades, I. Iordanov, and H. Tode, ''DNS Tunneling Detection by Cache-Property-Aware Features,'' *IEEE TNSM*, Jun. 2021.
+* N. Ishikura, **D. Kondo**, V. Vassiliades, I. Iordanov, and H. Tode, ''DNS Tunneling Detection by Cache-Property-Aware Features,'' *IEEE TNSM*, vol. 18, no. 2, pp. 1203–1217, Jun. 2021.
 
 * **D. Kondo**, V. Vassiliades, T. Silverston, H. Tode, and T. Asami, ''The Named Data Networking Flow Filter: Towards Improved Security over Information Leakage Attacks,'' *Computer Networks*, vol. 173, May 2020.
 
